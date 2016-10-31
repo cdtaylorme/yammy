@@ -1,5 +1,0 @@
-defaults:
-    key_id: 'c1494dfb'
-    secret_key: '8c0c9262993655ea04e3f36d1d378425'
-    api_hostname: "api.cloudpassage.com"
-    api_port: 443
